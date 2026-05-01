@@ -637,8 +637,6 @@ export default function FusionGuide() {
             </div>)}
           </div>
         )}
-
-        <div style={{ marginTop: 48, paddingTop: 20, borderTop: `1px solid ${C.border}`, textAlign: "center", color: C.textMuted, fontSize: 11 }}>dbt Fusion Engine v2.0 — Powered by Rust and Apache DataFusion</div>
       </div>
 
       <style>{`
